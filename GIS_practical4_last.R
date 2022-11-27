@@ -6,4 +6,6 @@ library(usethis)
 edit_git_config()
 install.packages("gitcreds")
 library(gitcreds)
-gitcreds_set()
+
+z<-9+17
+u<-0+5
